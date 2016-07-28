@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "134270085655",
+    "project_id": "saveme-1f30c"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134270085655:android:77cef8e9be1be2a1",
+        "android_client_info": {
+          "package_name": "com.example.anil.saveme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPk8nZ1205PBojnnXJIBZuUSGDoSf_8V4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2,
+          "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+          "test_interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
